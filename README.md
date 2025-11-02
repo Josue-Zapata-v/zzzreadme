@@ -8,7 +8,7 @@
 
 **Explora el multiverso de Rick & Morty a través de una aplicación web moderna y responsiva**
 
-[🚀 Ver Demo](#) | [📖 Documentación](https://rickandmortyapi.com/documentation) | [🐛 Reportar Bug](#) | [✨ Solicitar Feature](#)
+| [📖 Documentación](https://rickandmortyapi.com/documentation) | 
 
 </div>
 
@@ -362,7 +362,6 @@ Controles:
 <tr>
 <td align="center" width="25%">
 <h4>Yair Araujo Gabriel</h4>
-<p><strong>Líder Técnico</strong></p>
 <p>🏗️ Arquitectura Base</p>
 <ul align="left">
 <li>Configuración inicial del proyecto</li>
@@ -375,7 +374,6 @@ Controles:
 
 <td align="center" width="25%">
 <h4>Yamile Ochoa Marin</h4>
-<p><strong>Desarrolladora Frontend</strong></p>
 <p>🏠 Página de Inicio</p>
 <ul align="left">
 <li>Hero Section design</li>
@@ -388,7 +386,6 @@ Controles:
 
 <td align="center" width="25%">
 <h4>Christian David Unocc</h4>
-<p><strong>Desarrollador Frontend</strong></p>
 <p>📋 Sistema de Listado</p>
 <ul align="left">
 <li>FilterBar component</li>
@@ -401,7 +398,6 @@ Controles:
 
 <td align="center" width="25%">
 <h4>Josue Zapata Villegas</h4>
-<p><strong>Desarrollador Fullstack</strong></p>
 <p>📬 Servicios & Deploy</p>
 <ul align="left">
 <li>Contact page & validación</li>
@@ -831,4 +827,4 @@ zjosue775@gmail.com
 
 ### Enlaces del Proyecto
 
-- 📦 **Repositorio:** [https://github.com/Cris-div/Proyecto-o3-React.git](https://github.com/Cris-div/Proyecto-o3-React.git
+- 📦 **Repositorio:** [https://github.com/Cris-div/Proyecto-o3-React.git](https://github.com/Cris-div/Proyecto-o3-React.git)
